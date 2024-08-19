@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.link-hover:hover{
+    color: red;
+}
+.create-hover:hover{
+    background-color: red;
+    border: none;
+}
+.box-2{
+    display: inline-block;
+}
+.box-space{
+    margin-left: 100px;
+}
+.input-box{
+    width: 65%;
+}
+.submit-button{
+    width: 6%;
+}
+.submit-button button:hover{
+    background-color: blue;
+}
+.sidenav li{
+    list-style-type: none;
+}
+.sidenav a:hover{
+    color: aliceblue;
+}
+.link-hover a:hover{
+    color: rgb(209, 78, 45);
+}
+.tables-button{
+    width: 2%;
+}
